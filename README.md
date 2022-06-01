@@ -4,7 +4,6 @@ kodluyoruz eğitim kapsamında açtığım ilk repo
 
 
 ## Intallation
----
 Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)
 
 ```
