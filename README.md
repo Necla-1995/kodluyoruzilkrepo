@@ -2,6 +2,8 @@
 
 kodluyoruz eğitim kapsamında açtığım ilk repo
 
+![image](Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202022-06-02%20011008.png)
+
 
 ## Intallation
 Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)
